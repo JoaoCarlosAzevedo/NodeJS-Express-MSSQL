@@ -1,0 +1,6 @@
+#ignora arquivos de configuracao .env
+*.env
+/node_modules
+
+# Dependency directories
+node_modules/
